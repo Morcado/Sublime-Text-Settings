@@ -1,0 +1,864 @@
+{
+	"folder_history":
+	[
+		"/C/Users/Morcado/Desktop/NachOS",
+		"/C/Users/Morcado/Desktop/NachOS/nachos",
+		"/C/Users/Morcado/Desktop/Compilator/SLR/PreExamen",
+		"/C/Users/Morcado/Desktop/Compilator/SLR"
+	],
+	"last_version": 3176,
+	"last_window_id": 21,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 509.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"str",
+						"string"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"reinde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"java",
+						"Set Syntax: Java"
+					],
+					[
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"THEME",
+						"Boxy Theme: Preferences"
+					],
+					[
+						"COLOR",
+						"UI: Select Color Scheme"
+					],
+					[
+						"thee",
+						"Boxy Theme: Preferences"
+					],
+					[
+						"them",
+						"UI: Select Theme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"reinden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"mk",
+						"Set Syntax: Markdown"
+					],
+					[
+						"arit",
+						"Arithmetic"
+					],
+					[
+						"c#",
+						"Set Syntax: C#"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Morcado/Desktop/NachOS/nachos/bin/system.c",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/threads/thread.h",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/test/Makefile",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/test/sort.c",
+				"/C/Users/Morcado/Desktop/PC2/EcoCliente.java",
+				"/C/Users/Morcado/Desktop/PC2/Practica5Cliente.java",
+				"/C/Users/Morcado/Desktop/PC2/hola.java",
+				"/C/Users/Morcado/Desktop/PC2/servidor.java",
+				"/C/Users/Morcado/Desktop/PC2/ref.java",
+				"/C/Users/Morcado/Desktop/PC2/EcoServidor.java",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/threads/threadtest.cc",
+				"/C/Users/Morcado/Documents/Trabajos/7 semestre/Archivos/Proyecto/DataBase.cs",
+				"/C/Users/Public/Desktop/desktop.ini",
+				"/C/Program Files (x86)/Steam/steamapps/common/Portal 2/portal2/cfg/config_default.cfg",
+				"/C/Program Files (x86)/Steam/steamapps/common/Portal 2/steam_appid.txt",
+				"/C/Users/Morcado/Desktop/Compilator/SLR/PreExamen/bin/Debug/examples/ejem5.txt",
+				"/C/Users/Morcado/AppData/Roaming/Bioshock2Steam/Bioshock2SP.ini",
+				"/C/Users/Morcado/Desktop/Compilator/SLR/PreExamen/bin/Debug/examples/ejem1.txt",
+				"/C/Users/Morcado/Documents/Visual_6/LexYacc/8. NumerosYacc/NumerosLex.y",
+				"/C/Users/Morcado/Desktop/Archivos/Proyecto/bin/Debug/examples/Alumnos - Copy - Copy.csv",
+				"/C/Users/Morcado/Documents/Visual_6/vc98/crt/src/string.cpp",
+				"/C/Users/Morcado/Documents/Visual_6/vc98/crt/src/string.h",
+				"/C/Users/Morcado/Documents/Visual_6/LexYacc/9. FlotanteYacc/y.tab.c",
+				"/C/Users/Morcado/Documents/Visual_6/LexYacc/8. NumerosYacc/NumerosLex.l",
+				"/C/Users/Morcado/Documents/Visual_6/LexYacc/y.tab.h",
+				"/C/Users/Morcado/Desktop/Compilator/AFN-AFD/AvanceAFN-AFD.txt",
+				"/C/Users/Morcado/Desktop/Compilator/Spline/Spline/Punto.cs",
+				"/C/Users/Morcado/Desktop/Compilator/Spline/Spline/Bzier.cs",
+				"/C/Users/Morcado/Desktop/Compilator/Conversion/AvanceThompson.txt",
+				"/C/Users/Morcado/Desktop/Compilator/Canonica/WindowsFormsApplication1/Form1.cs",
+				"/C/Users/Morcado/Desktop/Compilator/PreExamen/PreExamen/bin/Debug/examples/recursionrara.txt",
+				"/C/Users/Morcado/Desktop/Compilator/PreExamen/PreExamen/bin/Debug/examples/RecursionyFactorizacionGeneranMismoPrima.txt",
+				"/C/Users/Morcado/Desktop/Compilator/PreExamen/PreExamen/bin/Debug/examples/recursionDirecta.txt",
+				"/C/Users/Morcado/Desktop/Compilator/PreExamen/PreExamen/bin/Debug/examples/1.txt",
+				"/C/Users/Morcado/Desktop/Compilator/Canonica/WindowsFormsApplication1/bin/Debug/examples/4.txt",
+				"/C/Users/Morcado/Desktop/Compilator/Canonica/WindowsFormsApplication1/bin/Debug/examples/2.txt",
+				"/C/Users/Morcado/Documents/Trabajos/5 semestre/Visual 2017/MFC/7. GrafoOptimoAleatorio/Debug/CajaImprime.obj",
+				"/C/Users/Morcado/Desktop/Compilator/Thompson/AvanceThompson.txt",
+				"/C/Users/Morcado/Desktop/Compilator/PreExamen/AvancePreexamne.txt",
+				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Grafos/EditordeGrafos2018/EditordeGrafos/Edge.cs",
+				"/C/Users/Morcado/CLionProjects/Lineas/cmake-build-debug/Lineas.txt",
+				"/C/Users/Morcado/Downloads/L - Lineas del metro/input/L_2.txt",
+				"/G/ParaPatus.txt",
+				"/C/Users/Morcado/Documents/Trabajos/5 semestre/Visual 2017/SDK Tipico/12. PreEx21_Decenas/PreEx21_Decenas.rc",
+				"/C/Users/Morcado/CLionProjects/untitled/cmake-build-debug/outut.txt",
+				"/C/Users/Morcado/Desktop/Archivos/Proyecto/DataBase.cs",
+				"/D/Uni-USB-Installer-Copying.txt",
+				"/C/Users/Morcado/Desktop/Compilator/3. Thompson/AvanceThompson.txt",
+				"/D/AvanceG_ER.txt",
+				"/C/Users/Morcado/Downloads/análisisDES-Cryptoolv2.txt",
+				"/C/Users/Morcado/Desktop/prueba2.txt",
+				"/C/Users/Morcado/Desktop/Problem Set/numeros/main.cpp",
+				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Grafos/EditordeGrafos2018/EditordeGrafos/Editor.cs",
+				"/C/Users/Morcado/Downloads/gca.py",
+				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Graficación/proyecto graficacion terminado/glut.py",
+				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Graficación/cube.obj",
+				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Graficación/ejemp_glut.py",
+				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Graficación/python3_gca.txt"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 158.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 695.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ph",
+						"physAddr"
+					],
+					[
+						"str",
+						"string"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/Morcado/Desktop/NachOS/nachos/machine/translate.cc",
+					"settings":
+					{
+						"buffer_size": 8027,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Morcado/Desktop/NachOS/nachos/userprog/addrspace.cc",
+					"settings":
+					{
+						"buffer_size": 7345,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Morcado/Desktop/NachOS/nachos/machine/machine.h",
+					"settings":
+					{
+						"buffer_size": 8261,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Morcado/Desktop/NachOS/nachos/filesys/openfile.h",
+					"settings":
+					{
+						"buffer_size": 3056,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Morcado/Desktop/NachOS/nachos/userprog/progtest.cc",
+					"settings":
+					{
+						"buffer_size": 2617,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"reinde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"java",
+						"Set Syntax: Java"
+					],
+					[
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"THEME",
+						"Boxy Theme: Preferences"
+					],
+					[
+						"COLOR",
+						"UI: Select Color Scheme"
+					],
+					[
+						"thee",
+						"Boxy Theme: Preferences"
+					],
+					[
+						"them",
+						"UI: Select Theme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"reinden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"mk",
+						"Set Syntax: Markdown"
+					],
+					[
+						"arit",
+						"Arithmetic"
+					],
+					[
+						"c#",
+						"Set Syntax: C#"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/Morcado/Desktop/NachOS",
+				"/C/Users/Morcado/Desktop/NachOS/gcc-mips",
+				"/C/Users/Morcado/Desktop/NachOS/nachos",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/bin",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/filesys",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/machine",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/threads",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/userprog"
+			],
+			"file_history":
+			[
+				"/C/Users/Morcado/Desktop/NachOS/nachos/bin/system.c",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/threads/thread.h",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/test/Makefile",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/test/sort.c",
+				"/C/Users/Morcado/Desktop/PC2/EcoCliente.java",
+				"/C/Users/Morcado/Desktop/PC2/Practica5Cliente.java",
+				"/C/Users/Morcado/Desktop/PC2/hola.java",
+				"/C/Users/Morcado/Desktop/PC2/servidor.java",
+				"/C/Users/Morcado/Desktop/PC2/ref.java",
+				"/C/Users/Morcado/Desktop/PC2/EcoServidor.java",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/threads/threadtest.cc",
+				"/C/Users/Morcado/Documents/Trabajos/7 semestre/Archivos/Proyecto/DataBase.cs",
+				"/C/Users/Public/Desktop/desktop.ini",
+				"/C/Program Files (x86)/Steam/steamapps/common/Portal 2/portal2/cfg/config_default.cfg",
+				"/C/Program Files (x86)/Steam/steamapps/common/Portal 2/steam_appid.txt",
+				"/C/Users/Morcado/Desktop/Compilator/SLR/PreExamen/bin/Debug/examples/ejem5.txt",
+				"/C/Users/Morcado/AppData/Roaming/Bioshock2Steam/Bioshock2SP.ini",
+				"/C/Users/Morcado/Desktop/Compilator/SLR/PreExamen/bin/Debug/examples/ejem1.txt",
+				"/C/Users/Morcado/Documents/Visual_6/LexYacc/8. NumerosYacc/NumerosLex.y",
+				"/C/Users/Morcado/Desktop/Archivos/Proyecto/bin/Debug/examples/Alumnos - Copy - Copy.csv",
+				"/C/Users/Morcado/Documents/Visual_6/vc98/crt/src/string.cpp",
+				"/C/Users/Morcado/Documents/Visual_6/vc98/crt/src/string.h",
+				"/C/Users/Morcado/Documents/Visual_6/LexYacc/9. FlotanteYacc/y.tab.c",
+				"/C/Users/Morcado/Documents/Visual_6/LexYacc/8. NumerosYacc/NumerosLex.l",
+				"/C/Users/Morcado/Documents/Visual_6/LexYacc/y.tab.h",
+				"/C/Users/Morcado/Desktop/Compilator/AFN-AFD/AvanceAFN-AFD.txt",
+				"/C/Users/Morcado/Desktop/Compilator/Spline/Spline/Punto.cs",
+				"/C/Users/Morcado/Desktop/Compilator/Spline/Spline/Bzier.cs",
+				"/C/Users/Morcado/Desktop/Compilator/Conversion/AvanceThompson.txt",
+				"/C/Users/Morcado/Desktop/Compilator/Canonica/WindowsFormsApplication1/Form1.cs",
+				"/C/Users/Morcado/Desktop/Compilator/PreExamen/PreExamen/bin/Debug/examples/recursionrara.txt",
+				"/C/Users/Morcado/Desktop/Compilator/PreExamen/PreExamen/bin/Debug/examples/RecursionyFactorizacionGeneranMismoPrima.txt",
+				"/C/Users/Morcado/Desktop/Compilator/PreExamen/PreExamen/bin/Debug/examples/recursionDirecta.txt",
+				"/C/Users/Morcado/Desktop/Compilator/PreExamen/PreExamen/bin/Debug/examples/1.txt",
+				"/C/Users/Morcado/Desktop/Compilator/Canonica/WindowsFormsApplication1/bin/Debug/examples/4.txt",
+				"/C/Users/Morcado/Desktop/Compilator/Canonica/WindowsFormsApplication1/bin/Debug/examples/2.txt",
+				"/C/Users/Morcado/Documents/Trabajos/5 semestre/Visual 2017/MFC/7. GrafoOptimoAleatorio/Debug/CajaImprime.obj",
+				"/C/Users/Morcado/Desktop/Compilator/Thompson/AvanceThompson.txt",
+				"/C/Users/Morcado/Desktop/Compilator/PreExamen/AvancePreexamne.txt",
+				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Grafos/EditordeGrafos2018/EditordeGrafos/Edge.cs",
+				"/C/Users/Morcado/CLionProjects/Lineas/cmake-build-debug/Lineas.txt",
+				"/C/Users/Morcado/Downloads/L - Lineas del metro/input/L_2.txt",
+				"/G/ParaPatus.txt",
+				"/C/Users/Morcado/Documents/Trabajos/5 semestre/Visual 2017/SDK Tipico/12. PreEx21_Decenas/PreEx21_Decenas.rc",
+				"/C/Users/Morcado/CLionProjects/untitled/cmake-build-debug/outut.txt",
+				"/C/Users/Morcado/Desktop/Archivos/Proyecto/DataBase.cs",
+				"/D/Uni-USB-Installer-Copying.txt",
+				"/C/Users/Morcado/Desktop/Compilator/3. Thompson/AvanceThompson.txt",
+				"/D/AvanceG_ER.txt",
+				"/C/Users/Morcado/Downloads/análisisDES-Cryptoolv2.txt",
+				"/C/Users/Morcado/Desktop/prueba2.txt",
+				"/C/Users/Morcado/Desktop/Problem Set/numeros/main.cpp",
+				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Grafos/EditordeGrafos2018/EditordeGrafos/Editor.cs",
+				"/C/Users/Morcado/Downloads/gca.py",
+				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Graficación/proyecto graficacion terminado/glut.py",
+				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Graficación/cube.obj",
+				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Graficación/ejemp_glut.py",
+				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Graficación/python3_gca.txt"
+			],
+			"find":
+			{
+				"height": 45.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"x",
+					"datosDeServidor",
+					"exit",
+					"Exit",
+					"exit",
+					"SectorSize",
+					"Titles_Scroll",
+					"GetFollow",
+					"ExtraeToken",
+					"}\n",
+					"ExtraeToken",
+					"ObtenPrimero",
+					"GeneraPrimero",
+					"AignaSiguientes",
+					"0090129",
+					"JOSE LUIS",
+					"timer1",
+					"euler",
+					"GraphTimer",
+					"        timer1.Tick += new EventHandler(GraphTimer);\n",
+					"k5",
+					"sentences",
+					"b{{ba|bb}bb{cb}ca|{ba|bb}bb{cb}cb}{ba|{{ba|bb}bb{cb}ca|{ba|bb}bb{cb}cb}bb}bc|",
+					"drawEdgeAnim",
+					"IndexOf",
+					"DIVIDE",
+					"divide",
+					"t",
+					"faces",
+					"currentFace",
+					"camera",
+					"case 2",
+					"band",
+					"case 2",
+					";\n",
+					"case 2",
+					"pt2",
+					"mouse",
+					"nu",
+					"des",
+					"pt1",
+					"nu",
+					"Option = ",
+					"option = ",
+					"la",
+					"edgeIsDirected",
+					"EdgeIsDirected",
+					"edgeIsDirected",
+					"graphics",
+					"toca",
+					"numbers",
+					"open",
+					"a⁺((a⁺|ba*)(a|b)|b)*",
+					"|"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\Morcado\\Desktop\\NachOS"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Morcado/Desktop/NachOS/nachos/machine/translate.cc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8027,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7864,
+										7867
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 3146.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Morcado/Desktop/NachOS/nachos/userprog/addrspace.cc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7345,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5063,
+										5063
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 452.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/Morcado/Desktop/NachOS/nachos/machine/machine.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8261,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 56.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Users/Morcado/Desktop/NachOS/nachos/filesys/openfile.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3056,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3056,
+										3056
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 695.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Users/Morcado/Desktop/NachOS/nachos/userprog/progtest.cc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2617,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										847,
+										847
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,590,261,22,972",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 158.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
