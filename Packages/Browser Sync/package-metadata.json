@@ -1,0 +1,1 @@
+{"version": "1.0.1", "description": "a plugin for launching Browser Sync from Sublime Text 3", "dependencies": [], "url": "https://github.com/iamdjones/sublime-text-browser-sync", "sublime_text": ">=3000", "platforms": ["*"]}

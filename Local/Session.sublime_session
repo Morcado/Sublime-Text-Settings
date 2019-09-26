@@ -1,22 +1,402 @@
 {
 	"folder_history":
 	[
+		"/C/Users/Morcado/Desktop/bootstrap",
+		"/C/Users/Morcado/Desktop/homework-4-bootstrap-forms-Morcado",
+		"/C/Users/Morcado/Desktop/AppWeb/jQuery",
+		"/C/Users/Morcado/Desktop/homework-3-bootstrap-grid-Morcado",
+		"/C/Users/Morcado/OneDrive - Universidad Autonoma de San Luis Potosi - UASLP/Desktop/bootstrap",
+		"/C/Users/Morcado/Desktop/tarea-2-botones-jumbotron-bootstrap-Morcado",
+		"/C/Users/Morcado/Documents/IA",
+		"/C/Users/Morcado/Desktop/tarea-1-jquery-todo-app-Morcado",
+		"/C/Users/Morcado/Desktop/AppWeb",
+		"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio",
+		"/C/Users/Morcado/Desktop/DataBase-A/Manager",
+		"/C/Users/Morcado/Desktop/DataBase-A",
+		"/C/Users/Morcado/Desktop/SIC",
+		"/C/Users/Morcado/Desktop/NachOS/nachosLimpio",
+		"/C/Users/Morcado/Desktop/NachOS/Practica5SOB",
+		"/C/Users/Morcado/Desktop/NachOS/nachosFifoReloj",
+		"/C/Users/Morcado/Desktop/NachOS/nachosFIFOyReloj",
+		"/C/Users/Morcado/Desktop/NachOS/nachosFIFOyRELOJ",
+		"/C/Users/Morcado/Desktop/NachOS",
+		"/C/Users/Morcado/Desktop/NachOS/nachosFIFO",
 		"/C/Users/Morcado/Desktop/NachOS/nachos",
 		"/C/Users/Morcado/Desktop/Compilator/SLR/PreExamen",
 		"/C/Users/Morcado/Desktop/Compilator/SLR"
 	],
-	"last_version": 3176,
-	"last_window_id": 16,
+	"last_version": 3207,
+	"last_window_id": 46,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 509.0,
+		"new_window_height": 687.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"aler",
+						"alert-success"
+					],
+					[
+						"form",
+						"form-inline \tBootstrap 4 Class"
+					],
+					[
+						"list",
+						"list-group \tBootstrap 4 Class"
+					],
+					[
+						"sas",
+						"atomic_flag_test_and_set_explicit\tatomic"
+					],
+					[
+						"sa",
+						"atomic_signal_fence\tatomic"
+					],
+					[
+						"ss",
+						"stable_sort\tfunc"
+					],
+					[
+						"d",
+						"declv\tstd::declval<T>()"
+					],
+					[
+						"firs",
+						"first_name"
+					],
+					[
+						"table",
+						"table-striped \tBootstrap 4 Class"
+					],
+					[
+						"talb",
+						"table-info \tBootstrap 4 Class"
+					],
+					[
+						"color",
+						"background-color\tproperty"
+					],
+					[
+						"p",
+						"placeholder\tAttr"
+					],
+					[
+						"formla",
+						"form-control-label \tBootstrap 4 Class"
+					],
+					[
+						"lis",
+						"list-group \tBootstrap 4 Class"
+					],
+					[
+						"listgr",
+						"list-group-item \tBootstrap 4 Class"
+					],
+					[
+						"list-g",
+						"list-group-item \tBootstrap 4 Class"
+					],
+					[
+						"urls",
+						"urlstring"
+					],
+					[
+						"customcon",
+						"custom-control \tBootstrap 4 Class"
+					],
+					[
+						"cuso",
+						"custom-control \tBootstrap 4 Class"
+					],
+					[
+						"customcontrol",
+						"custom-control-input \tBootstrap 4 Class"
+					],
+					[
+						"formchec",
+						"form-check-input \tBootstrap 4 Class"
+					],
+					[
+						"off",
+						"offset-6 \tBootstrap 4 Class"
+					],
+					[
+						"col",
+						"col-sm \tBootstrap 4 Class"
+					],
+					[
+						"formcec",
+						"form-check-inline \tBootstrap 4 Class"
+					],
+					[
+						"form-check",
+						"form-check-label \tBootstrap 4 Class"
+					],
+					[
+						"formche",
+						"form-check-input \tBootstrap 4 Class"
+					],
+					[
+						"form-",
+						"form-control \tBootstrap 4 Class"
+					],
+					[
+						"bg",
+						"bg-dark \tBootstrap 4 Class"
+					],
+					[
+						"border",
+						"border-white \tBootstrap 4 Class"
+					],
+					[
+						"self",
+						"align-self-center \tBootstrap 4 Class"
+					],
+					[
+						"justify",
+						"justify-content-center \tBootstrap 4 Class"
+					],
+					[
+						"mt",
+						"mt-1 \tBootstrap 4 Class"
+					],
+					[
+						"margin",
+						"margin-top\tproperty"
+					],
+					[
+						"d-md",
+						"d-md-block \tBootstrap 4 Class"
+					],
+					[
+						"y",
+						"my-2 \tBootstrap 4 Class"
+					],
+					[
+						"back",
+						"background-position\tproperty"
+					],
+					[
+						"btn",
+						"btn-success \tBootstrap 4 Class"
+					],
+					[
+						"jum",
+						"jumbotron \tBootstrap 4 Class"
+					],
+					[
+						"bgda",
+						"bg-dark \tBootstrap 4 Class"
+					],
+					[
+						"mude",
+						"text-muted \tBootstrap 4 Class"
+					],
+					[
+						"text",
+						"text-xl-left \tBootstrap 4 Class"
+					],
+					[
+						"block",
+						"btn-block \tBootstrap 4 Class"
+					],
+					[
+						"btnou",
+						"btn-outline-info \tBootstrap 4 Class"
+					],
+					[
+						"btns",
+						"btn-sm \tBootstrap 4 Class"
+					],
+					[
+						"te",
+						"text-gray-dark \tBootstrap 4 Class"
+					],
+					[
+						"d-lg",
+						"d-lg-inline \tBootstrap 4 Class"
+					],
+					[
+						"d-sm",
+						"d-sm-inline-block \tBootstrap 4 Class"
+					],
+					[
+						"display",
+						"display-4 \tBootstrap 4 Class"
+					],
+					[
+						"textw",
+						"text-white \tBootstrap 4 Class"
+					],
+					[
+						"baco",
+						"background-image\tproperty"
+					],
+					[
+						"btn-outl",
+						"btn-outline-info \tBootstrap 4 Class"
+					],
+					[
+						"succes",
+						"btn-success \tBootstrap 4 Class"
+					],
+					[
+						"jumbo",
+						"jumbotron-fluid \tBootstrap 4 Class"
+					],
+					[
+						"estad",
+						"estadoActual"
+					],
+					[
+						"acta",
+						"estadoActual"
+					],
+					[
+						"esta",
+						"estadoActual"
+					],
+					[
+						"set",
+						"setf\tsetf"
+					],
+					[
+						"url",
+						"urlString"
+					],
+					[
+						"add",
+						"addTask"
+					],
+					[
+						"bt",
+						"btnAdd"
+					],
+					[
+						"font",
+						"font-style\tproperty"
+					],
+					[
+						"sty",
+						"font-style\tproperty"
+					],
+					[
+						"fade",
+						"fade-button"
+					],
+					[
+						"inlin",
+						"inline-block\tdisplay"
+					],
+					[
+						"topologi",
+						"topologicalSort"
+					],
+					[
+						"text-de",
+						"text-decoration-line\tproperty"
+					],
+					[
+						"backgroundc",
+						"background-color\tproperty"
+					],
+					[
+						"sequen",
+						"sequenceLength"
+					],
+					[
+						"sy",
+						"sync_with_stdio\tfunc"
+					],
+					[
+						"corrimient",
+						"corrimientov2"
+					],
+					[
+						"witch",
+						"width\tfunc"
+					],
+					[
+						"leasTimes",
+						"leastTimes"
+					],
+					[
+						"max",
+						"max_element\tfunc"
+					],
+					[
+						"sequ",
+						"sequence"
+					],
+					[
+						"push",
+						"push_back\tfunc"
+					],
+					[
+						"for",
+						"for_each\tfunc"
+					],
+					[
+						"numin",
+						"numIndirectSen"
+					],
+					[
+						"num",
+						"numPtrIndirectDob"
+					],
+					[
+						"numind",
+						"numIndirectDob"
+					],
+					[
+						"Sect",
+						"SectorSize"
+					],
+					[
+						"nm",
+						"numSectors"
+					],
+					[
+						"indirec",
+						"indirectosSen"
+					],
+					[
+						"print",
+						"printf\tprintf …"
+					],
+					[
+						"prit",
+						"printf\tprintf …"
+					],
+					[
+						"prinf",
+						"printf"
+					],
+					[
+						"fin",
+						"Find"
+					],
+					[
+						"prin",
+						"PrintFileSectors"
+					],
+					[
+						"phy",
+						"physAddr"
+					],
+					[
+						"phys",
+						"physicalAddress"
+					],
+					[
+						"ph",
+						"physAddr"
+					],
 					[
 						"str",
 						"string"
@@ -34,20 +414,192 @@
 				"selected_items":
 				[
 					[
+						"bros",
+						"File: Open In Browser - Testing Server"
+					],
+					[
+						"share",
+						"Carbon: share selection"
+					],
+					[
+						"plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"brow",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"newfi",
+						"File: New File Relative to Current View"
+					],
+					[
+						"BROE",
+						"File: Open In Browser - Testing Server"
+					],
+					[
+						"pla",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"htm",
+						"Set Syntax: HTML"
+					],
+					[
 						"reinde",
 						"Indentation: Reindent Lines"
 					],
 					[
-						"rein",
-						"Indentation: Reindent Lines"
+						"bro",
+						"File: Open In Browser - Production Server"
 					],
 					[
-						"java",
-						"Set Syntax: Java"
+						"syntax markdo",
+						"Set Syntax: MultiMarkdown"
 					],
 					[
-						"colo",
-						"UI: Select Color Scheme"
+						"prevw",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"md",
+						"Set Syntax: Markdown"
+					],
+					[
+						"brw",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"rename",
+						"Rename File"
+					],
+					[
+						"new",
+						"File: New File Relative to Project Root"
+					],
+					[
+						"nrefi",
+						"Package Control: Create Package File"
+					],
+					[
+						"pre",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"unfol",
+						"MarkdownEditing: Unfold All Sections"
+					],
+					[
+						"previe",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"mark down",
+						"MarkdownEditing: Run markdownlint"
+					],
+					[
+						"mark",
+						"MarkdownEditing: Markdown Lint"
+					],
+					[
+						"markdown ",
+						"MarkdownEditing: New Image"
+					],
+					[
+						"syntax mult",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"html\t",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"brows",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"newfil",
+						"File: New File Relative to Current View"
+					],
+					[
+						"broe",
+						"File: Open In Browser - Testing Server"
+					],
+					[
+						"rena",
+						"Rename File"
+					],
+					[
+						"newfile",
+						"File: New File Relative to Current View"
+					],
+					[
+						"dele",
+						"File: Delete"
+					],
+					[
+						"op",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"lisp",
+						"Set Syntax: Lisp"
+					],
+					[
+						"te",
+						"Terminal: Open"
+					],
+					[
+						"snipp",
+						"Snippet: Long Tag"
+					],
+					[
+						"snip",
+						"Snippet: CDATA"
+					],
+					[
+						"ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"carbon",
+						"Carbon: share selection"
+					],
+					[
+						"htmo",
+						"HTML: Wrap Selection With Tag"
+					],
+					[
+						"bui",
+						"Build With: C++ Single File - Run"
+					],
+					[
+						"c",
+						"Set Syntax: C++"
 					],
 					[
 						"theme",
@@ -58,8 +610,60 @@
 						"UI: Select Color Scheme"
 					],
 					[
-						"c++",
-						"Set Syntax: C++"
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"shce",
+						"UI: Select Color Scheme"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"the",
+						"UI: Select Theme"
+					],
+					[
+						"packka",
+						"Package Control: List Packages"
+					],
+					[
+						"them",
+						"UI: Select Theme"
+					],
+					[
+						"colos",
+						"UI: Select Color Scheme"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"make",
+						"Set Syntax: Makefile"
+					],
+					[
+						"git",
+						"Set Syntax: Git Log"
+					],
+					[
+						"re",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"r",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"java",
+						"Set Syntax: Java"
 					],
 					[
 						"THEME",
@@ -74,20 +678,12 @@
 						"Boxy Theme: Preferences"
 					],
 					[
-						"them",
-						"UI: Select Theme"
-					],
-					[
 						"install",
 						"Package Control: Install Package"
 					],
 					[
 						"reinden",
 						"Indentation: Reindent Lines"
-					],
-					[
-						"mark",
-						"Set Syntax: Markdown"
 					],
 					[
 						"mk",
@@ -100,23 +696,25 @@
 					[
 						"c#",
 						"Set Syntax: C#"
-					],
-					[
-						"pac",
-						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
 					]
 				],
 				"width": 0.0
 			},
 			"console":
 			{
-				"height": 0.0,
+				"height": 152.0,
 				"history":
 				[
+					"exit",
+					"main()",
+					"main",
+					"cout",
+					"g++ +",
+					"g++",
+					"ls",
+					"d",
+					"g++ G.cpp",
+					"make"
 				]
 			},
 			"distraction_free":
@@ -130,6 +728,117 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Morcado/Desktop/marco2.txt",
+				"/C/Users/Morcado/Desktop/bootstrap/index.html",
+				"/C/Users/Morcado/Desktop/bootstrap/usuarios.html",
+				"/C/Users/Morcado/Desktop/bootstrap/inputgrupo.html",
+				"/C/Users/Morcado/Desktop/bootstrap/jumbotron.html",
+				"/C/Users/Morcado/Desktop/bootstrap/offset-nested.html",
+				"/C/Users/Morcado/Desktop/bootstrap/validacion.html",
+				"/C/Users/Morcado/Desktop/bootstrap/alineacion.html",
+				"/C/Users/Morcado/Desktop/bootstrap/botones.html",
+				"/C/Users/Morcado/Desktop/bootstrap/breakpoint.html",
+				"/C/Users/Morcado/Desktop/bootstrap/customforma.html",
+				"/C/Users/Morcado/Desktop/bootstrap/descargado.html",
+				"/C/Users/Morcado/Desktop/bootstrap/display.html",
+				"/C/Users/Morcado/Desktop/bootstrap/ejemplo-jquery.html",
+				"/C/Users/Morcado/Desktop/bootstrap/form2.html",
+				"/C/Users/Morcado/Desktop/bootstrap/formaenlinea.html",
+				"/C/Users/Morcado/Desktop/bootstrap/formula.html",
+				"/C/Users/Morcado/Desktop/bootstrap/grid.html",
+				"/C/Users/Morcado/Desktop/bootstrap/hola.html",
+				"/C/Users/Morcado/Desktop/bootstrap/guion.md",
+				"/C/Users/Morcado/Desktop/bootstrap/breakpoint.css",
+				"/C/Users/Morcado/Desktop/avance administracion.md",
+				"/C/Users/Morcado/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
+				"/C/Users/Morcado/Downloads/tarea-1-jquery-todo-app-Morcado-master/ajax-uinames.html",
+				"/C/Users/Morcado/Downloads/tarea-1-jquery-todo-app-Morcado-master/index.html",
+				"/C/Users/Morcado/Desktop/RPC09 7 Septiembre 2019/D.cpp",
+				"/C/Users/Morcado/Desktop/AppWeb/jQuery/common-jQuery-events.html",
+				"/C/Users/Morcado/Desktop/RPC09 7 Septiembre 2019/C.cpp",
+				"/C/Users/Morcado/Desktop/AppWeb/jQuery/comon-methods.html",
+				"/C/Users/Morcado/Desktop/AppWeb/jQuery/cover2.jpg",
+				"/C/Users/Morcado/Desktop/Problems/2019 RPC_07 Julio-13/F_r.cpp",
+				"/C/Users/Morcado/Downloads/F2.cpp",
+				"/C/Users/Morcado/Desktop/Problems/2019 RPC_04 Abril-27/A_r.cpp",
+				"/C/Users/Morcado/Downloads/valentine.cpp",
+				"/C/Users/Morcado/Desktop/Problems/2019 RPC_03 Marzo-30/J/main.cpp",
+				"/C/Users/Morcado/Desktop/Problems/2019 RPC_03 Marzo-30/H/main.cpp",
+				"/C/Users/Morcado/Desktop/Problems/2019 RPC_03 Marzo-30/G/main.cpp",
+				"/C/Users/Morcado/Desktop/Problems/2019 RPC_03 Marzo-30/A/main.cpp",
+				"/C/Users/Morcado/Desktop/bootstrap/ejercicio.html",
+				"/C/Users/Morcado/Documents/IA/misioneros/misioneros.lisp",
+				"/C/Users/Morcado/Documents/IA/tutorial-ejemplos-lisp/TUTOR2.LSP",
+				"/C/Users/Morcado/Documents/IA/tutorial-ejemplos-lisp/TUTOR3.LSP",
+				"/C/Users/Morcado/AppData/Roaming/Sublime Text 3/Packages/User/bootstrap.sublime-snippet",
+				"/D/gramm/Avance.txt",
+				"/C/Users/Morcado/Desktop/bootstrap/blog.html",
+				"/C/Users/Morcado/Desktop/bootstrap/bootstrap.html",
+				"/C/Users/Morcado/Desktop/tarea-1-jquery-todo-app-Morcado/ajax-uinames.html",
+				"/C/Users/Morcado/Desktop/df_44_12_win/dfhack.init-example",
+				"/C/Users/Morcado/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/C/Users/Morcado/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+				"/C/Users/Morcado/Desktop/df_44_12_win/data/init/init.txt",
+				"/C/Users/Morcado/Desktop/AppWeb/jQuery/selectors.html",
+				"/C/Users/Morcado/AppData/Roaming/Sublime Text 3/Packages/Browser Sync/browser_sync.py",
+				"/C/Users/Morcado/AppData/Roaming/Sublime Text 3/Packages/Browser Sync/Main.sublime-menu",
+				"/C/Users/Morcado/AppData/Roaming/Sublime Text 3/Packages/Browser Sync/browser_sync_launch.js",
+				"/C/Users/Morcado/Desktop/Problems/2019 RPC_07 Julio-13/F/F2.cpp",
+				"/C/Users/Morcado/Desktop/Problems/2019 RPC_07 Julio-13/C/C.cpp",
+				"/C/Users/Morcado/Desktop/Problems/2019 RPC_07 Julio-13/D/D2.cpp",
+				"/C/Users/Morcado/Desktop/Problems/RPC_07 07-13-2019/D/C.cpp",
+				"/C/Users/Morcado/Desktop/Problems/RPC_08 08-10-2019/C/C.cpp",
+				"/C/Users/Morcado/Desktop/Problems/GP_01 04-28-2018/Problema D/D.cpp",
+				"/C/Users/Morcado/Downloads/endoh1.c",
+				"/C/Users/Morcado/Desktop/df_44_12_win/raw/readme.txt",
+				"/C/Users/Morcado/Desktop/Problems/GP_02 05-11-2019/H/main.cpp",
+				"/C/Users/Morcado/Desktop/Problems/GP_02 05-11-2019/G/main.cpp",
+				"/C/Users/Morcado/Desktop/df_44_12_win/command line.txt",
+				"/C/Users/Morcado/Desktop/SIC/ProyectoSIC/ProyectoSIC/Form1.cs",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/.gitignore",
+				"/C/Users/Morcado/Downloads/error.txt",
+				"/C/Users/Morcado/Downloads/Sistemas de archivos/nachos/filesys/filesys.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/threads/utility.h",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/machine/disk.h",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/filesys/fstest.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/filesys/openfile.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/filesys/synchdisk.cc",
+				"/C/Users/Morcado/Downloads/Sistemas de archivos/nachos/filesys/fstest.cc",
+				"/C/Users/Morcado/Downloads/Sistemas de archivos/nachos/filesys/filehdr.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/filesys/directory.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/machine/disk.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/machine/sysdep.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/threads/main.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/filesys/filesys.cc",
+				"/C/Users/Morcado/Downloads/Sistemas de archivos/nachos/threads/main.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/userprog/bitmap.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/filesys/filehdr.h",
+				"/C/Users/Morcado/Desktop/ACM Problems/05-11-2019/C/C.cpp",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/filesys/filesys.h",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/filesys/filehdr.cc",
+				"/C/Users/Morcado/Desktop/ACM Problems/05-11-2019/G/G.cpp",
+				"/C/Users/Morcado/Desktop/ACM Problems/05-11-2019/G/main.cpp",
+				"/C/Users/Morcado/Desktop/SIC/ProyectoSICXE/ProyectoSIC/Programa.cs",
+				"/C/Users/Morcado/Desktop/NachOS/nachosLimpio/filesys/filehdr.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosLimpio/filesys/synchdisk.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosLimpio/threads/synch.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosLimpio/filesys/filehdr.h",
+				"/C/Users/Morcado/Desktop/NachOS/nachosLimpio/filesys/filesys.cc",
+				"/C/Users/Morcado/Desktop/NachOS/Practica5SOB/filesys/filehdr.cc",
+				"/C/Users/Morcado/Desktop/NachOS/Practica5SOB/filesys/DISK",
+				"/C/Users/Morcado/Desktop/NachOS/nachosFifoReloj/Salidas/matmult32reloj.txt",
+				"/C/Users/Morcado/Desktop/NachOS/nachosFifoReloj/machine/machine.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosFifoReloj/Salidas/sort32Fifo.txt",
+				"/C/Users/Morcado/Desktop/NachOS/nachosFifoReloj/userprog/exception.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosFifoReloj/machine/mipssim.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosFifoReloj/machine/translate.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosFifoReloj/userprog/addrspace.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/userprog/progtest.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/filesys/openfile.h",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/machine/machine.h",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/machine/translate.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/userprog/addrspace.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/bin/system.c",
 				"/C/Users/Morcado/Desktop/NachOS/nachos/threads/thread.h",
 				"/C/Users/Morcado/Desktop/NachOS/nachos/test/Makefile",
 				"/C/Users/Morcado/Desktop/NachOS/nachos/test/sort.c",
@@ -146,55 +855,15 @@
 				"/C/Program Files (x86)/Steam/steamapps/common/Portal 2/steam_appid.txt",
 				"/C/Users/Morcado/Desktop/Compilator/SLR/PreExamen/bin/Debug/examples/ejem5.txt",
 				"/C/Users/Morcado/AppData/Roaming/Bioshock2Steam/Bioshock2SP.ini",
-				"/C/Users/Morcado/Desktop/Compilator/SLR/PreExamen/bin/Debug/examples/ejem1.txt",
-				"/C/Users/Morcado/Documents/Visual_6/LexYacc/8. NumerosYacc/NumerosLex.y",
-				"/C/Users/Morcado/Desktop/Archivos/Proyecto/bin/Debug/examples/Alumnos - Copy - Copy.csv",
-				"/C/Users/Morcado/Documents/Visual_6/vc98/crt/src/string.cpp",
-				"/C/Users/Morcado/Documents/Visual_6/vc98/crt/src/string.h",
-				"/C/Users/Morcado/Documents/Visual_6/LexYacc/9. FlotanteYacc/y.tab.c",
-				"/C/Users/Morcado/Documents/Visual_6/LexYacc/8. NumerosYacc/NumerosLex.l",
-				"/C/Users/Morcado/Documents/Visual_6/LexYacc/y.tab.h",
-				"/C/Users/Morcado/Desktop/Compilator/AFN-AFD/AvanceAFN-AFD.txt",
-				"/C/Users/Morcado/Desktop/Compilator/Spline/Spline/Punto.cs",
-				"/C/Users/Morcado/Desktop/Compilator/Spline/Spline/Bzier.cs",
-				"/C/Users/Morcado/Desktop/Compilator/Conversion/AvanceThompson.txt",
-				"/C/Users/Morcado/Desktop/Compilator/Canonica/WindowsFormsApplication1/Form1.cs",
-				"/C/Users/Morcado/Desktop/Compilator/PreExamen/PreExamen/bin/Debug/examples/recursionrara.txt",
-				"/C/Users/Morcado/Desktop/Compilator/PreExamen/PreExamen/bin/Debug/examples/RecursionyFactorizacionGeneranMismoPrima.txt",
-				"/C/Users/Morcado/Desktop/Compilator/PreExamen/PreExamen/bin/Debug/examples/recursionDirecta.txt",
-				"/C/Users/Morcado/Desktop/Compilator/PreExamen/PreExamen/bin/Debug/examples/1.txt",
-				"/C/Users/Morcado/Desktop/Compilator/Canonica/WindowsFormsApplication1/bin/Debug/examples/4.txt",
-				"/C/Users/Morcado/Desktop/Compilator/Canonica/WindowsFormsApplication1/bin/Debug/examples/2.txt",
-				"/C/Users/Morcado/Documents/Trabajos/5 semestre/Visual 2017/MFC/7. GrafoOptimoAleatorio/Debug/CajaImprime.obj",
-				"/C/Users/Morcado/Desktop/Compilator/Thompson/AvanceThompson.txt",
-				"/C/Users/Morcado/Desktop/Compilator/PreExamen/AvancePreexamne.txt",
-				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Grafos/EditordeGrafos2018/EditordeGrafos/Edge.cs",
-				"/C/Users/Morcado/CLionProjects/Lineas/cmake-build-debug/Lineas.txt",
-				"/C/Users/Morcado/Downloads/L - Lineas del metro/input/L_2.txt",
-				"/G/ParaPatus.txt",
-				"/C/Users/Morcado/Documents/Trabajos/5 semestre/Visual 2017/SDK Tipico/12. PreEx21_Decenas/PreEx21_Decenas.rc",
-				"/C/Users/Morcado/CLionProjects/untitled/cmake-build-debug/outut.txt",
-				"/C/Users/Morcado/Desktop/Archivos/Proyecto/DataBase.cs",
-				"/D/Uni-USB-Installer-Copying.txt",
-				"/C/Users/Morcado/Desktop/Compilator/3. Thompson/AvanceThompson.txt",
-				"/D/AvanceG_ER.txt",
-				"/C/Users/Morcado/Downloads/análisisDES-Cryptoolv2.txt",
-				"/C/Users/Morcado/Desktop/prueba2.txt",
-				"/C/Users/Morcado/Desktop/Problem Set/numeros/main.cpp",
-				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Grafos/EditordeGrafos2018/EditordeGrafos/Editor.cs",
-				"/C/Users/Morcado/Downloads/gca.py",
-				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Graficación/proyecto graficacion terminado/glut.py",
-				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Graficación/cube.obj",
-				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Graficación/ejemp_glut.py",
-				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Graficación/python3_gca.txt"
+				"/C/Users/Morcado/Desktop/Compilator/SLR/PreExamen/bin/Debug/examples/ejem1.txt"
 			],
 			"find":
 			{
-				"height": 45.0
+				"height": 44.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 120.0,
 				"where_history":
 				[
 				]
@@ -204,59 +873,45 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"datosDeServidor",
-					"exit",
-					"Exit",
-					"exit",
-					"SectorSize",
-					"Titles_Scroll",
-					"GetFollow",
-					"ExtraeToken",
-					"}\n",
-					"ExtraeToken",
-					"ObtenPrimero",
-					"GeneraPrimero",
-					"AignaSiguientes",
-					"0090129",
-					"JOSE LUIS",
-					"timer1",
-					"euler",
-					"GraphTimer",
-					"        timer1.Tick += new EventHandler(GraphTimer);\n",
-					"k5",
-					"sentences",
-					"b{{ba|bb}bb{cb}ca|{ba|bb}bb{cb}cb}{ba|{{ba|bb}bb{cb}ca|{ba|bb}bb{cb}cb}bb}bc|",
-					"drawEdgeAnim",
-					"IndexOf",
-					"DIVIDE",
-					"divide",
-					"t",
-					"faces",
-					"currentFace",
-					"camera",
-					"case 2",
-					"band",
-					"case 2",
-					";\n",
-					"case 2",
-					"pt2",
-					"mouse",
-					"nu",
-					"des",
-					"pt1",
-					"nu",
-					"Option = ",
-					"option = ",
-					"la",
-					"edgeIsDirected",
-					"EdgeIsDirected",
-					"edgeIsDirected",
-					"graphics",
-					"toca",
-					"numbers",
-					"open",
-					"a⁺((a⁺|ba*)(a|b)|b)*",
-					"|"
+					"usuario",
+					"\">",
+					"data-focus-on=\"input:first\"",
+					"h1",
+					"dada",
+					"validacion",
+					"formaenlinea",
+					"validacion",
+					"grid",
+					"hola",
+					"tbody",
+					"th",
+					"data-dismiss=\"modal\"",
+					"class",
+					"col",
+					"Table",
+					"mexicanos",
+					"form",
+					"id",
+					"col-4",
+					"space in row evenly",
+					"\n            <div class=\"col col-4 text-white bg-danger\">Share space",
+					"formula",
+					"form-check",
+					"checkbox",
+					"offset-nested",
+					"Contra",
+					"contra",
+					"correo",
+					"Correo",
+					"correo",
+					"alineacion",
+					"grid",
+					"col",
+					"col-sm-12",
+					"jumbotron",
+					"Primera",
+					"cite",
+					"span"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -273,13 +928,17 @@
 			},
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 26.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 40.0
 			},
-			"menu_visible": false,
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 106.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -287,7 +946,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 50.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -321,13 +980,13 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 156.0,
+			"side_bar_width": 180.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 695.0
+		"new_window_width": 764.0
 	},
 	"windows":
 	[
@@ -336,6 +995,366 @@
 			{
 				"selected_items":
 				[
+					[
+						"aler",
+						"alert-success"
+					],
+					[
+						"form",
+						"form-inline \tBootstrap 4 Class"
+					],
+					[
+						"list",
+						"list-group \tBootstrap 4 Class"
+					],
+					[
+						"sas",
+						"atomic_flag_test_and_set_explicit\tatomic"
+					],
+					[
+						"sa",
+						"atomic_signal_fence\tatomic"
+					],
+					[
+						"ss",
+						"stable_sort\tfunc"
+					],
+					[
+						"d",
+						"declv\tstd::declval<T>()"
+					],
+					[
+						"firs",
+						"first_name"
+					],
+					[
+						"table",
+						"table-striped \tBootstrap 4 Class"
+					],
+					[
+						"talb",
+						"table-info \tBootstrap 4 Class"
+					],
+					[
+						"color",
+						"background-color\tproperty"
+					],
+					[
+						"p",
+						"placeholder\tAttr"
+					],
+					[
+						"formla",
+						"form-control-label \tBootstrap 4 Class"
+					],
+					[
+						"lis",
+						"list-group \tBootstrap 4 Class"
+					],
+					[
+						"listgr",
+						"list-group-item \tBootstrap 4 Class"
+					],
+					[
+						"list-g",
+						"list-group-item \tBootstrap 4 Class"
+					],
+					[
+						"urls",
+						"urlstring"
+					],
+					[
+						"customcon",
+						"custom-control \tBootstrap 4 Class"
+					],
+					[
+						"cuso",
+						"custom-control \tBootstrap 4 Class"
+					],
+					[
+						"customcontrol",
+						"custom-control-input \tBootstrap 4 Class"
+					],
+					[
+						"formchec",
+						"form-check-input \tBootstrap 4 Class"
+					],
+					[
+						"off",
+						"offset-6 \tBootstrap 4 Class"
+					],
+					[
+						"col",
+						"col-sm \tBootstrap 4 Class"
+					],
+					[
+						"formcec",
+						"form-check-inline \tBootstrap 4 Class"
+					],
+					[
+						"form-check",
+						"form-check-label \tBootstrap 4 Class"
+					],
+					[
+						"formche",
+						"form-check-input \tBootstrap 4 Class"
+					],
+					[
+						"form-",
+						"form-control \tBootstrap 4 Class"
+					],
+					[
+						"bg",
+						"bg-dark \tBootstrap 4 Class"
+					],
+					[
+						"border",
+						"border-white \tBootstrap 4 Class"
+					],
+					[
+						"self",
+						"align-self-center \tBootstrap 4 Class"
+					],
+					[
+						"justify",
+						"justify-content-center \tBootstrap 4 Class"
+					],
+					[
+						"mt",
+						"mt-1 \tBootstrap 4 Class"
+					],
+					[
+						"margin",
+						"margin-top\tproperty"
+					],
+					[
+						"d-md",
+						"d-md-block \tBootstrap 4 Class"
+					],
+					[
+						"y",
+						"my-2 \tBootstrap 4 Class"
+					],
+					[
+						"back",
+						"background-position\tproperty"
+					],
+					[
+						"btn",
+						"btn-success \tBootstrap 4 Class"
+					],
+					[
+						"jum",
+						"jumbotron \tBootstrap 4 Class"
+					],
+					[
+						"bgda",
+						"bg-dark \tBootstrap 4 Class"
+					],
+					[
+						"mude",
+						"text-muted \tBootstrap 4 Class"
+					],
+					[
+						"text",
+						"text-xl-left \tBootstrap 4 Class"
+					],
+					[
+						"block",
+						"btn-block \tBootstrap 4 Class"
+					],
+					[
+						"btnou",
+						"btn-outline-info \tBootstrap 4 Class"
+					],
+					[
+						"btns",
+						"btn-sm \tBootstrap 4 Class"
+					],
+					[
+						"te",
+						"text-gray-dark \tBootstrap 4 Class"
+					],
+					[
+						"d-lg",
+						"d-lg-inline \tBootstrap 4 Class"
+					],
+					[
+						"d-sm",
+						"d-sm-inline-block \tBootstrap 4 Class"
+					],
+					[
+						"display",
+						"display-4 \tBootstrap 4 Class"
+					],
+					[
+						"textw",
+						"text-white \tBootstrap 4 Class"
+					],
+					[
+						"baco",
+						"background-image\tproperty"
+					],
+					[
+						"btn-outl",
+						"btn-outline-info \tBootstrap 4 Class"
+					],
+					[
+						"succes",
+						"btn-success \tBootstrap 4 Class"
+					],
+					[
+						"jumbo",
+						"jumbotron-fluid \tBootstrap 4 Class"
+					],
+					[
+						"estad",
+						"estadoActual"
+					],
+					[
+						"acta",
+						"estadoActual"
+					],
+					[
+						"esta",
+						"estadoActual"
+					],
+					[
+						"set",
+						"setf\tsetf"
+					],
+					[
+						"url",
+						"urlString"
+					],
+					[
+						"add",
+						"addTask"
+					],
+					[
+						"bt",
+						"btnAdd"
+					],
+					[
+						"font",
+						"font-style\tproperty"
+					],
+					[
+						"sty",
+						"font-style\tproperty"
+					],
+					[
+						"fade",
+						"fade-button"
+					],
+					[
+						"inlin",
+						"inline-block\tdisplay"
+					],
+					[
+						"topologi",
+						"topologicalSort"
+					],
+					[
+						"text-de",
+						"text-decoration-line\tproperty"
+					],
+					[
+						"backgroundc",
+						"background-color\tproperty"
+					],
+					[
+						"sequen",
+						"sequenceLength"
+					],
+					[
+						"sy",
+						"sync_with_stdio\tfunc"
+					],
+					[
+						"corrimient",
+						"corrimientov2"
+					],
+					[
+						"witch",
+						"width\tfunc"
+					],
+					[
+						"leasTimes",
+						"leastTimes"
+					],
+					[
+						"max",
+						"max_element\tfunc"
+					],
+					[
+						"sequ",
+						"sequence"
+					],
+					[
+						"push",
+						"push_back\tfunc"
+					],
+					[
+						"for",
+						"for_each\tfunc"
+					],
+					[
+						"numin",
+						"numIndirectSen"
+					],
+					[
+						"num",
+						"numPtrIndirectDob"
+					],
+					[
+						"numind",
+						"numIndirectDob"
+					],
+					[
+						"Sect",
+						"SectorSize"
+					],
+					[
+						"nm",
+						"numSectors"
+					],
+					[
+						"indirec",
+						"indirectosSen"
+					],
+					[
+						"print",
+						"printf\tprintf …"
+					],
+					[
+						"prit",
+						"printf\tprintf …"
+					],
+					[
+						"prinf",
+						"printf"
+					],
+					[
+						"fin",
+						"Find"
+					],
+					[
+						"prin",
+						"PrintFileSectors"
+					],
+					[
+						"phy",
+						"physAddr"
+					],
+					[
+						"phys",
+						"physicalAddress"
+					],
+					[
+						"ph",
+						"physAddr"
+					],
 					[
 						"str",
 						"string"
@@ -354,20 +1373,192 @@
 				"selected_items":
 				[
 					[
+						"bros",
+						"File: Open In Browser - Testing Server"
+					],
+					[
+						"share",
+						"Carbon: share selection"
+					],
+					[
+						"plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"brow",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"newfi",
+						"File: New File Relative to Current View"
+					],
+					[
+						"BROE",
+						"File: Open In Browser - Testing Server"
+					],
+					[
+						"pla",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"htm",
+						"Set Syntax: HTML"
+					],
+					[
 						"reinde",
 						"Indentation: Reindent Lines"
 					],
 					[
-						"rein",
-						"Indentation: Reindent Lines"
+						"bro",
+						"File: Open In Browser - Production Server"
 					],
 					[
-						"java",
-						"Set Syntax: Java"
+						"syntax markdo",
+						"Set Syntax: MultiMarkdown"
 					],
 					[
-						"colo",
-						"UI: Select Color Scheme"
+						"prevw",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"md",
+						"Set Syntax: Markdown"
+					],
+					[
+						"brw",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"rename",
+						"Rename File"
+					],
+					[
+						"new",
+						"File: New File Relative to Project Root"
+					],
+					[
+						"nrefi",
+						"Package Control: Create Package File"
+					],
+					[
+						"pre",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"unfol",
+						"MarkdownEditing: Unfold All Sections"
+					],
+					[
+						"previe",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"mark down",
+						"MarkdownEditing: Run markdownlint"
+					],
+					[
+						"mark",
+						"MarkdownEditing: Markdown Lint"
+					],
+					[
+						"markdown ",
+						"MarkdownEditing: New Image"
+					],
+					[
+						"syntax mult",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"html\t",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"brows",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"newfil",
+						"File: New File Relative to Current View"
+					],
+					[
+						"broe",
+						"File: Open In Browser - Testing Server"
+					],
+					[
+						"rena",
+						"Rename File"
+					],
+					[
+						"newfile",
+						"File: New File Relative to Current View"
+					],
+					[
+						"dele",
+						"File: Delete"
+					],
+					[
+						"op",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"lisp",
+						"Set Syntax: Lisp"
+					],
+					[
+						"te",
+						"Terminal: Open"
+					],
+					[
+						"snipp",
+						"Snippet: Long Tag"
+					],
+					[
+						"snip",
+						"Snippet: CDATA"
+					],
+					[
+						"ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"carbon",
+						"Carbon: share selection"
+					],
+					[
+						"htmo",
+						"HTML: Wrap Selection With Tag"
+					],
+					[
+						"bui",
+						"Build With: C++ Single File - Run"
+					],
+					[
+						"c",
+						"Set Syntax: C++"
 					],
 					[
 						"theme",
@@ -378,8 +1569,60 @@
 						"UI: Select Color Scheme"
 					],
 					[
-						"c++",
-						"Set Syntax: C++"
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"shce",
+						"UI: Select Color Scheme"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"the",
+						"UI: Select Theme"
+					],
+					[
+						"packka",
+						"Package Control: List Packages"
+					],
+					[
+						"them",
+						"UI: Select Theme"
+					],
+					[
+						"colos",
+						"UI: Select Color Scheme"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"make",
+						"Set Syntax: Makefile"
+					],
+					[
+						"git",
+						"Set Syntax: Git Log"
+					],
+					[
+						"re",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"r",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"java",
+						"Set Syntax: Java"
 					],
 					[
 						"THEME",
@@ -394,20 +1637,12 @@
 						"Boxy Theme: Preferences"
 					],
 					[
-						"them",
-						"UI: Select Theme"
-					],
-					[
 						"install",
 						"Package Control: Install Package"
 					],
 					[
 						"reinden",
 						"Indentation: Reindent Lines"
-					],
-					[
-						"mark",
-						"Set Syntax: Markdown"
 					],
 					[
 						"mk",
@@ -420,23 +1655,25 @@
 					[
 						"c#",
 						"Set Syntax: C#"
-					],
-					[
-						"pac",
-						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
 					]
 				],
 				"width": 0.0
 			},
 			"console":
 			{
-				"height": 0.0,
+				"height": 152.0,
 				"history":
 				[
+					"exit",
+					"main()",
+					"main",
+					"cout",
+					"g++ +",
+					"g++",
+					"ls",
+					"d",
+					"g++ G.cpp",
+					"make"
 				]
 			},
 			"distraction_free":
@@ -450,6 +1687,117 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Morcado/Desktop/marco2.txt",
+				"/C/Users/Morcado/Desktop/bootstrap/index.html",
+				"/C/Users/Morcado/Desktop/bootstrap/usuarios.html",
+				"/C/Users/Morcado/Desktop/bootstrap/inputgrupo.html",
+				"/C/Users/Morcado/Desktop/bootstrap/jumbotron.html",
+				"/C/Users/Morcado/Desktop/bootstrap/offset-nested.html",
+				"/C/Users/Morcado/Desktop/bootstrap/validacion.html",
+				"/C/Users/Morcado/Desktop/bootstrap/alineacion.html",
+				"/C/Users/Morcado/Desktop/bootstrap/botones.html",
+				"/C/Users/Morcado/Desktop/bootstrap/breakpoint.html",
+				"/C/Users/Morcado/Desktop/bootstrap/customforma.html",
+				"/C/Users/Morcado/Desktop/bootstrap/descargado.html",
+				"/C/Users/Morcado/Desktop/bootstrap/display.html",
+				"/C/Users/Morcado/Desktop/bootstrap/ejemplo-jquery.html",
+				"/C/Users/Morcado/Desktop/bootstrap/form2.html",
+				"/C/Users/Morcado/Desktop/bootstrap/formaenlinea.html",
+				"/C/Users/Morcado/Desktop/bootstrap/formula.html",
+				"/C/Users/Morcado/Desktop/bootstrap/grid.html",
+				"/C/Users/Morcado/Desktop/bootstrap/hola.html",
+				"/C/Users/Morcado/Desktop/bootstrap/guion.md",
+				"/C/Users/Morcado/Desktop/bootstrap/breakpoint.css",
+				"/C/Users/Morcado/Desktop/avance administracion.md",
+				"/C/Users/Morcado/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
+				"/C/Users/Morcado/Downloads/tarea-1-jquery-todo-app-Morcado-master/ajax-uinames.html",
+				"/C/Users/Morcado/Downloads/tarea-1-jquery-todo-app-Morcado-master/index.html",
+				"/C/Users/Morcado/Desktop/RPC09 7 Septiembre 2019/D.cpp",
+				"/C/Users/Morcado/Desktop/AppWeb/jQuery/common-jQuery-events.html",
+				"/C/Users/Morcado/Desktop/RPC09 7 Septiembre 2019/C.cpp",
+				"/C/Users/Morcado/Desktop/AppWeb/jQuery/comon-methods.html",
+				"/C/Users/Morcado/Desktop/AppWeb/jQuery/cover2.jpg",
+				"/C/Users/Morcado/Desktop/Problems/2019 RPC_07 Julio-13/F_r.cpp",
+				"/C/Users/Morcado/Downloads/F2.cpp",
+				"/C/Users/Morcado/Desktop/Problems/2019 RPC_04 Abril-27/A_r.cpp",
+				"/C/Users/Morcado/Downloads/valentine.cpp",
+				"/C/Users/Morcado/Desktop/Problems/2019 RPC_03 Marzo-30/J/main.cpp",
+				"/C/Users/Morcado/Desktop/Problems/2019 RPC_03 Marzo-30/H/main.cpp",
+				"/C/Users/Morcado/Desktop/Problems/2019 RPC_03 Marzo-30/G/main.cpp",
+				"/C/Users/Morcado/Desktop/Problems/2019 RPC_03 Marzo-30/A/main.cpp",
+				"/C/Users/Morcado/Desktop/bootstrap/ejercicio.html",
+				"/C/Users/Morcado/Documents/IA/misioneros/misioneros.lisp",
+				"/C/Users/Morcado/Documents/IA/tutorial-ejemplos-lisp/TUTOR2.LSP",
+				"/C/Users/Morcado/Documents/IA/tutorial-ejemplos-lisp/TUTOR3.LSP",
+				"/C/Users/Morcado/AppData/Roaming/Sublime Text 3/Packages/User/bootstrap.sublime-snippet",
+				"/D/gramm/Avance.txt",
+				"/C/Users/Morcado/Desktop/bootstrap/blog.html",
+				"/C/Users/Morcado/Desktop/bootstrap/bootstrap.html",
+				"/C/Users/Morcado/Desktop/tarea-1-jquery-todo-app-Morcado/ajax-uinames.html",
+				"/C/Users/Morcado/Desktop/df_44_12_win/dfhack.init-example",
+				"/C/Users/Morcado/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/C/Users/Morcado/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+				"/C/Users/Morcado/Desktop/df_44_12_win/data/init/init.txt",
+				"/C/Users/Morcado/Desktop/AppWeb/jQuery/selectors.html",
+				"/C/Users/Morcado/AppData/Roaming/Sublime Text 3/Packages/Browser Sync/browser_sync.py",
+				"/C/Users/Morcado/AppData/Roaming/Sublime Text 3/Packages/Browser Sync/Main.sublime-menu",
+				"/C/Users/Morcado/AppData/Roaming/Sublime Text 3/Packages/Browser Sync/browser_sync_launch.js",
+				"/C/Users/Morcado/Desktop/Problems/2019 RPC_07 Julio-13/F/F2.cpp",
+				"/C/Users/Morcado/Desktop/Problems/2019 RPC_07 Julio-13/C/C.cpp",
+				"/C/Users/Morcado/Desktop/Problems/2019 RPC_07 Julio-13/D/D2.cpp",
+				"/C/Users/Morcado/Desktop/Problems/RPC_07 07-13-2019/D/C.cpp",
+				"/C/Users/Morcado/Desktop/Problems/RPC_08 08-10-2019/C/C.cpp",
+				"/C/Users/Morcado/Desktop/Problems/GP_01 04-28-2018/Problema D/D.cpp",
+				"/C/Users/Morcado/Downloads/endoh1.c",
+				"/C/Users/Morcado/Desktop/df_44_12_win/raw/readme.txt",
+				"/C/Users/Morcado/Desktop/Problems/GP_02 05-11-2019/H/main.cpp",
+				"/C/Users/Morcado/Desktop/Problems/GP_02 05-11-2019/G/main.cpp",
+				"/C/Users/Morcado/Desktop/df_44_12_win/command line.txt",
+				"/C/Users/Morcado/Desktop/SIC/ProyectoSIC/ProyectoSIC/Form1.cs",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/.gitignore",
+				"/C/Users/Morcado/Downloads/error.txt",
+				"/C/Users/Morcado/Downloads/Sistemas de archivos/nachos/filesys/filesys.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/threads/utility.h",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/machine/disk.h",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/filesys/fstest.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/filesys/openfile.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/filesys/synchdisk.cc",
+				"/C/Users/Morcado/Downloads/Sistemas de archivos/nachos/filesys/fstest.cc",
+				"/C/Users/Morcado/Downloads/Sistemas de archivos/nachos/filesys/filehdr.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/filesys/directory.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/machine/disk.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/machine/sysdep.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/threads/main.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/filesys/filesys.cc",
+				"/C/Users/Morcado/Downloads/Sistemas de archivos/nachos/threads/main.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/userprog/bitmap.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/filesys/filehdr.h",
+				"/C/Users/Morcado/Desktop/ACM Problems/05-11-2019/C/C.cpp",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/filesys/filesys.h",
+				"/C/Users/Morcado/Desktop/NachOS/nachosDirectorio/filesys/filehdr.cc",
+				"/C/Users/Morcado/Desktop/ACM Problems/05-11-2019/G/G.cpp",
+				"/C/Users/Morcado/Desktop/ACM Problems/05-11-2019/G/main.cpp",
+				"/C/Users/Morcado/Desktop/SIC/ProyectoSICXE/ProyectoSIC/Programa.cs",
+				"/C/Users/Morcado/Desktop/NachOS/nachosLimpio/filesys/filehdr.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosLimpio/filesys/synchdisk.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosLimpio/threads/synch.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosLimpio/filesys/filehdr.h",
+				"/C/Users/Morcado/Desktop/NachOS/nachosLimpio/filesys/filesys.cc",
+				"/C/Users/Morcado/Desktop/NachOS/Practica5SOB/filesys/filehdr.cc",
+				"/C/Users/Morcado/Desktop/NachOS/Practica5SOB/filesys/DISK",
+				"/C/Users/Morcado/Desktop/NachOS/nachosFifoReloj/Salidas/matmult32reloj.txt",
+				"/C/Users/Morcado/Desktop/NachOS/nachosFifoReloj/machine/machine.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosFifoReloj/Salidas/sort32Fifo.txt",
+				"/C/Users/Morcado/Desktop/NachOS/nachosFifoReloj/userprog/exception.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosFifoReloj/machine/mipssim.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosFifoReloj/machine/translate.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachosFifoReloj/userprog/addrspace.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/userprog/progtest.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/filesys/openfile.h",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/machine/machine.h",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/machine/translate.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/userprog/addrspace.cc",
+				"/C/Users/Morcado/Desktop/NachOS/nachos/bin/system.c",
 				"/C/Users/Morcado/Desktop/NachOS/nachos/threads/thread.h",
 				"/C/Users/Morcado/Desktop/NachOS/nachos/test/Makefile",
 				"/C/Users/Morcado/Desktop/NachOS/nachos/test/sort.c",
@@ -466,55 +1814,15 @@
 				"/C/Program Files (x86)/Steam/steamapps/common/Portal 2/steam_appid.txt",
 				"/C/Users/Morcado/Desktop/Compilator/SLR/PreExamen/bin/Debug/examples/ejem5.txt",
 				"/C/Users/Morcado/AppData/Roaming/Bioshock2Steam/Bioshock2SP.ini",
-				"/C/Users/Morcado/Desktop/Compilator/SLR/PreExamen/bin/Debug/examples/ejem1.txt",
-				"/C/Users/Morcado/Documents/Visual_6/LexYacc/8. NumerosYacc/NumerosLex.y",
-				"/C/Users/Morcado/Desktop/Archivos/Proyecto/bin/Debug/examples/Alumnos - Copy - Copy.csv",
-				"/C/Users/Morcado/Documents/Visual_6/vc98/crt/src/string.cpp",
-				"/C/Users/Morcado/Documents/Visual_6/vc98/crt/src/string.h",
-				"/C/Users/Morcado/Documents/Visual_6/LexYacc/9. FlotanteYacc/y.tab.c",
-				"/C/Users/Morcado/Documents/Visual_6/LexYacc/8. NumerosYacc/NumerosLex.l",
-				"/C/Users/Morcado/Documents/Visual_6/LexYacc/y.tab.h",
-				"/C/Users/Morcado/Desktop/Compilator/AFN-AFD/AvanceAFN-AFD.txt",
-				"/C/Users/Morcado/Desktop/Compilator/Spline/Spline/Punto.cs",
-				"/C/Users/Morcado/Desktop/Compilator/Spline/Spline/Bzier.cs",
-				"/C/Users/Morcado/Desktop/Compilator/Conversion/AvanceThompson.txt",
-				"/C/Users/Morcado/Desktop/Compilator/Canonica/WindowsFormsApplication1/Form1.cs",
-				"/C/Users/Morcado/Desktop/Compilator/PreExamen/PreExamen/bin/Debug/examples/recursionrara.txt",
-				"/C/Users/Morcado/Desktop/Compilator/PreExamen/PreExamen/bin/Debug/examples/RecursionyFactorizacionGeneranMismoPrima.txt",
-				"/C/Users/Morcado/Desktop/Compilator/PreExamen/PreExamen/bin/Debug/examples/recursionDirecta.txt",
-				"/C/Users/Morcado/Desktop/Compilator/PreExamen/PreExamen/bin/Debug/examples/1.txt",
-				"/C/Users/Morcado/Desktop/Compilator/Canonica/WindowsFormsApplication1/bin/Debug/examples/4.txt",
-				"/C/Users/Morcado/Desktop/Compilator/Canonica/WindowsFormsApplication1/bin/Debug/examples/2.txt",
-				"/C/Users/Morcado/Documents/Trabajos/5 semestre/Visual 2017/MFC/7. GrafoOptimoAleatorio/Debug/CajaImprime.obj",
-				"/C/Users/Morcado/Desktop/Compilator/Thompson/AvanceThompson.txt",
-				"/C/Users/Morcado/Desktop/Compilator/PreExamen/AvancePreexamne.txt",
-				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Grafos/EditordeGrafos2018/EditordeGrafos/Edge.cs",
-				"/C/Users/Morcado/CLionProjects/Lineas/cmake-build-debug/Lineas.txt",
-				"/C/Users/Morcado/Downloads/L - Lineas del metro/input/L_2.txt",
-				"/G/ParaPatus.txt",
-				"/C/Users/Morcado/Documents/Trabajos/5 semestre/Visual 2017/SDK Tipico/12. PreEx21_Decenas/PreEx21_Decenas.rc",
-				"/C/Users/Morcado/CLionProjects/untitled/cmake-build-debug/outut.txt",
-				"/C/Users/Morcado/Desktop/Archivos/Proyecto/DataBase.cs",
-				"/D/Uni-USB-Installer-Copying.txt",
-				"/C/Users/Morcado/Desktop/Compilator/3. Thompson/AvanceThompson.txt",
-				"/D/AvanceG_ER.txt",
-				"/C/Users/Morcado/Downloads/análisisDES-Cryptoolv2.txt",
-				"/C/Users/Morcado/Desktop/prueba2.txt",
-				"/C/Users/Morcado/Desktop/Problem Set/numeros/main.cpp",
-				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Grafos/EditordeGrafos2018/EditordeGrafos/Editor.cs",
-				"/C/Users/Morcado/Downloads/gca.py",
-				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Graficación/proyecto graficacion terminado/glut.py",
-				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Graficación/cube.obj",
-				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Graficación/ejemp_glut.py",
-				"/C/Users/Morcado/Documents/Trabajos/6 semestre/Graficación/python3_gca.txt"
+				"/C/Users/Morcado/Desktop/Compilator/SLR/PreExamen/bin/Debug/examples/ejem1.txt"
 			],
 			"find":
 			{
-				"height": 45.0
+				"height": 44.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 120.0,
 				"where_history":
 				[
 				]
@@ -524,59 +1832,45 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"datosDeServidor",
-					"exit",
-					"Exit",
-					"exit",
-					"SectorSize",
-					"Titles_Scroll",
-					"GetFollow",
-					"ExtraeToken",
-					"}\n",
-					"ExtraeToken",
-					"ObtenPrimero",
-					"GeneraPrimero",
-					"AignaSiguientes",
-					"0090129",
-					"JOSE LUIS",
-					"timer1",
-					"euler",
-					"GraphTimer",
-					"        timer1.Tick += new EventHandler(GraphTimer);\n",
-					"k5",
-					"sentences",
-					"b{{ba|bb}bb{cb}ca|{ba|bb}bb{cb}cb}{ba|{{ba|bb}bb{cb}ca|{ba|bb}bb{cb}cb}bb}bc|",
-					"drawEdgeAnim",
-					"IndexOf",
-					"DIVIDE",
-					"divide",
-					"t",
-					"faces",
-					"currentFace",
-					"camera",
-					"case 2",
-					"band",
-					"case 2",
-					";\n",
-					"case 2",
-					"pt2",
-					"mouse",
-					"nu",
-					"des",
-					"pt1",
-					"nu",
-					"Option = ",
-					"option = ",
-					"la",
-					"edgeIsDirected",
-					"EdgeIsDirected",
-					"edgeIsDirected",
-					"graphics",
-					"toca",
-					"numbers",
-					"open",
-					"a⁺((a⁺|ba*)(a|b)|b)*",
-					"|"
+					"usuario",
+					"\">",
+					"data-focus-on=\"input:first\"",
+					"h1",
+					"dada",
+					"validacion",
+					"formaenlinea",
+					"validacion",
+					"grid",
+					"hola",
+					"tbody",
+					"th",
+					"data-dismiss=\"modal\"",
+					"class",
+					"col",
+					"Table",
+					"mexicanos",
+					"form",
+					"id",
+					"col-4",
+					"space in row evenly",
+					"\n            <div class=\"col col-4 text-white bg-danger\">Share space",
+					"formula",
+					"form-check",
+					"checkbox",
+					"offset-nested",
+					"Contra",
+					"contra",
+					"correo",
+					"Correo",
+					"correo",
+					"alineacion",
+					"grid",
+					"col",
+					"col-sm-12",
+					"jumbotron",
+					"Primera",
+					"cite",
+					"span"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -593,11 +1887,11 @@
 			},
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 26.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 40.0
 			},
 			"layout":
 			{
@@ -621,16 +1915,20 @@
 					1.0
 				]
 			},
-			"menu_visible": false,
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 106.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,642,117,74,828",
+			"position": "0,2,3,-1,-1,-1,-1,742,-3,-3,776",
 			"replace":
 			{
-				"height": 50.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -667,12 +1965,12 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 156.0,
+			"side_bar_width": 180.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 1
+			"window_id": 40
 		}
 	],
 	"workspaces":

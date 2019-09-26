@@ -5,12 +5,24 @@
 	],
 	"installed_packages":
 	[
+		"Bootstrap 4 Autocomplete",
 		"Boxy Theme",
+		"Browser Sync",
+		"C++ Completions",
+		"C++ Snippets",
+		"Carbon",
 		"Color Highlighter",
+		"Color Scheme - Creamy",
+		"Color Scheme - Pastels UI",
+		"Color Scheme - Yotsuba",
+		"ColorPicker",
 		"Colorsublime",
 		"FileIcons",
+		"MarkdownEditing",
+		"MarkdownPreview",
 		"Package Control",
 		"SideBarEnhancements",
+		"Terminal",
 		"Theme - Arc"
 	]
 }
