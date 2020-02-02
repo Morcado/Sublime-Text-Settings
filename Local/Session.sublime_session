@@ -30,7 +30,7 @@
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 687.0,
+		"new_window_height": 683.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -728,6 +728,8 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Morcado/Desktop/ubicua/proyectoubicua2019/.git/COMMIT_EDITMSG",
+				"/C/Users/Morcado/Desktop/appweb/proyecto-18-petbook/.git/COMMIT_EDITMSG",
 				"/C/Users/Morcado/Desktop/marco2.txt",
 				"/C/Users/Morcado/Desktop/bootstrap/index.html",
 				"/C/Users/Morcado/Desktop/bootstrap/usuarios.html",
@@ -853,9 +855,7 @@
 				"/C/Users/Public/Desktop/desktop.ini",
 				"/C/Program Files (x86)/Steam/steamapps/common/Portal 2/portal2/cfg/config_default.cfg",
 				"/C/Program Files (x86)/Steam/steamapps/common/Portal 2/steam_appid.txt",
-				"/C/Users/Morcado/Desktop/Compilator/SLR/PreExamen/bin/Debug/examples/ejem5.txt",
-				"/C/Users/Morcado/AppData/Roaming/Bioshock2Steam/Bioshock2SP.ini",
-				"/C/Users/Morcado/Desktop/Compilator/SLR/PreExamen/bin/Debug/examples/ejem1.txt"
+				"/C/Users/Morcado/Desktop/Compilator/SLR/PreExamen/bin/Debug/examples/ejem5.txt"
 			],
 			"find":
 			{
@@ -986,7 +986,7 @@
 			{
 			}
 		},
-		"new_window_width": 764.0
+		"new_window_width": 760.0
 	},
 	"windows":
 	[
@@ -1687,6 +1687,8 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Morcado/Desktop/ubicua/proyectoubicua2019/.git/COMMIT_EDITMSG",
+				"/C/Users/Morcado/Desktop/appweb/proyecto-18-petbook/.git/COMMIT_EDITMSG",
 				"/C/Users/Morcado/Desktop/marco2.txt",
 				"/C/Users/Morcado/Desktop/bootstrap/index.html",
 				"/C/Users/Morcado/Desktop/bootstrap/usuarios.html",
@@ -1812,9 +1814,7 @@
 				"/C/Users/Public/Desktop/desktop.ini",
 				"/C/Program Files (x86)/Steam/steamapps/common/Portal 2/portal2/cfg/config_default.cfg",
 				"/C/Program Files (x86)/Steam/steamapps/common/Portal 2/steam_appid.txt",
-				"/C/Users/Morcado/Desktop/Compilator/SLR/PreExamen/bin/Debug/examples/ejem5.txt",
-				"/C/Users/Morcado/AppData/Roaming/Bioshock2Steam/Bioshock2SP.ini",
-				"/C/Users/Morcado/Desktop/Compilator/SLR/PreExamen/bin/Debug/examples/ejem1.txt"
+				"/C/Users/Morcado/Desktop/Compilator/SLR/PreExamen/bin/Debug/examples/ejem5.txt"
 			],
 			"find":
 			{
@@ -1925,7 +1925,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,742,-3,-3,776",
+			"position": "0,2,3,-1,-1,-1,-1,742,0,0,776",
 			"replace":
 			{
 				"height": 48.0
